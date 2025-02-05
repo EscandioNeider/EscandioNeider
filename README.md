@@ -11,7 +11,7 @@
 
 ###
 
-<h3 align="center">🛠 Linguagens:</h3>
+<h3 align="center">🛠 Veja as linguagens e ferramentas que eu utilizo 😊:</h3>
 
 ###
 
