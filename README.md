@@ -7,9 +7,10 @@
 <br>
 <p align="center">Aqui estão meus contatos 😉</p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/portfolio-2F2F2F?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Portfolio Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="www.linkedin.com/in/marina-vieira-schneider"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+   <a href="mailto:marinaschneider2016@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
 </p>
 
 ---
